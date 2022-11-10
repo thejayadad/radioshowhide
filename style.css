@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+.box{
+    display: flex;
+
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
